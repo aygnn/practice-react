@@ -1,0 +1,34 @@
+.basliq{
+    text-align: center;
+    margin-top: 75px;
+}
+.row{
+    width: 104%;
+}
+.column {
+    float: left;
+    margin-left: 4%;
+    width: 20%;
+    padding: 10px;
+    height: 300px;
+  }
+  .column p{
+    color: #6c757d !important;
+    font-weight: 400;
+  }
+
+  .bolen{
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: #f4623a;
+    opacity: 1;
+    border: 0;
+  }
+  .icon{
+    color: #f4623a;
+    font-size: 44px;
+  }
+  .mb-2{
+    margin-top: 11%;
+  }

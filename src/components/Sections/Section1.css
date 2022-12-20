@@ -1,0 +1,90 @@
+section img {
+    width: 1520px;
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg");
+
+    background-size: cover;
+    /* background-image: url("https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg"); */
+}
+.section1{
+    margin-top: -72px;
+}
+.orta{
+    margin-top: -35%;
+    width: 55%;
+    text-align: center;
+    margin-left: 22%;
+}
+.orta h1{
+    font-size: 3.5rem;
+    color: white;
+}
+hr.divider{
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: #f4623a;
+    opacity: 1;
+    position: relative;
+}
+.asagi{
+    margin-top: 0%;
+    width: 55%;
+    text-align: center;
+    margin-left: 22%;
+    font-size: 1.15rem;
+    color: rgba(255, 255, 255, 0.75) !important;
+    margin-bottom: 3rem !important;
+}
+.btn-xl {
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #f4623a;
+    border-color: #f4623a;
+}
+.section2{
+    background-color: #f4623a;
+}
+.narinci{
+   
+    margin-top: 179px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+    
+}
+.narinci hr.divider-light {
+    background-color: #fff;
+    position: relative;
+}
+
+.narinci hr.divider {
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: #f4623a;
+    opacity: 1;
+}
+.icindeki{
+    margin: 64px
+}
+.icindeki p{
+    width: 52%;
+    margin-left: 25%;
+    color: rgba(255, 255, 255, 0.75) !important;
+    margin-bottom: 1.5rem !important;
+}
+.icindeki h2{
+    font-size: 2rem;
+}

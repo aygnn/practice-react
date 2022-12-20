@@ -1,0 +1,14 @@
+.foot{
+    background-color: #f8f9fa;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.tamorta{
+    color: #6c757d !important;
+
+    
+}
